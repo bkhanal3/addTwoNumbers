@@ -4,11 +4,11 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        int a=10;
+        int a=35;
         int b=20;
-        int sum=0;
-        sum = a+b;
-        System.out.println("sum=" +sum);
+        int sub=0;
+        sub = a-b;
+        System.out.println("sub=" +sub);
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
