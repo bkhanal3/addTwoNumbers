@@ -6,8 +6,9 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         int a=110;
         int b=20;
+        int c = 30;
         int sum=0;
-        sum = a+b;
+        sum = a+b+c;
         System.out.println("sum=" +sum);
 
         for (int i = 1; i <= 5; i++) {
