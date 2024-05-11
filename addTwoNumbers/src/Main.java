@@ -9,6 +9,12 @@ public class Main {
         int c = 30;
         int sum=0;
         sum = a+b+c;
+
+        int x = 10;
+        int y = 20;
+        int z = x * y;
+
+        System.out.println("Mul=" + z);
         System.out.println("sum=" +sum);
 
         for (int i = 1; i <= 5; i++) {
