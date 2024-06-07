@@ -5,8 +5,8 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         int a=20;
-        int b=50;
-        int c = 50;
+        int b=30;
+        int c = 40;
         int sum=0;
         sum = a+b+c;
 
